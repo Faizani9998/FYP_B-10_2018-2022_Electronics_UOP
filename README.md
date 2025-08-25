@@ -1,3 +1,9 @@
+Name: Faizan Ullah Khan
+BS Electronics(2018-2022)
+Electronics Department 
+University of Peshawar, KPK, Pakistan
+Email: faizanuk99@gmail.com
+Mob#/Whatsapp contact: +923361004220
 # 🌦️ Smart IoT-Based Weather Station  
 
 This project is a **smart IoT-based weather station** designed for efficient monitoring and analysis of meteorological data. It integrates sensors, microcontrollers, and cloud-based services to collect, process, and display environmental parameters with high accuracy and reliability.  
